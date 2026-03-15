@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/Codealpha07/LeetCode-POTD/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
