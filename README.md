@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Recursion
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3546-equal-sum-grid-partition-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
