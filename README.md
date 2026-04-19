@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Design
 | Problem Name | Difficulty |
