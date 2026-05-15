@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1006-vowel-spellchecker](https://github.com/Codealpha07/LeetCode-POTD/tree/master/1006-vowel-spellchecker) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
