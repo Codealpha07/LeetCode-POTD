@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1006-vowel-spellchecker](https://github.com/Codealpha07/LeetCode-POTD/tree/master/1006-vowel-spellchecker) |
+| [1306-jump-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -266,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
