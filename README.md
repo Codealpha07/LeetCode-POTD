@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Design
 | Problem Name | Difficulty |
