@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
+| [0068-text-justification](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/Codealpha07/LeetCode-POTD/tree/master/1006-vowel-spellchecker) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0068-text-justification](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0075-sort-colors](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
