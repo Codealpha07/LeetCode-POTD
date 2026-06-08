@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Linked List
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
