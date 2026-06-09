@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
