@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3462-vowels-game-in-a-string](https://github.com/Codealpha07/LeetCode-POTD/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Brainteaser
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
