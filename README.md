@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0274-h-index](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1340-jump-game-v](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1006-vowel-spellchecker](https://github.com/Codealpha07/LeetCode-POTD/tree/master/1006-vowel-spellchecker) |
 | [1345-jump-game-iv](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 ## Trie
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
