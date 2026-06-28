@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0274-h-index](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0056-merge-intervals](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0068-text-justification](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0075-sort-colors](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
