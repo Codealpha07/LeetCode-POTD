@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3161-block-placement-queries](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -566,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
