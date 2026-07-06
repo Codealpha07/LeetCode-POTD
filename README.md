@@ -603,4 +603,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1114-print-in-order/) | Easy |
+| [1195-fizz-buzz-multithreaded](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1195-fizz-buzz-multithreaded/) | Medium |
 <!---LeetCode Topics End-->
