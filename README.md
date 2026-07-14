@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0274-h-index](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
+| [0283-move-zeroes](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [1006-vowel-spellchecker](https://github.com/Codealpha07/LeetCode-POTD/tree/master/1006-vowel-spellchecker) |
 | [1288-remove-covered-intervals](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
