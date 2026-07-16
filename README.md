@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -632,4 +637,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
