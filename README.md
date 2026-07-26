@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0274-h-index](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/Codealpha07/LeetCode-POTD/tree/master/1006-vowel-spellchecker) |
 | [1288-remove-covered-intervals](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
