@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1622-fancy-sequence](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/Codealpha07/LeetCode-POTD/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
+| [1406-stone-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
+| [1406-stone-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
