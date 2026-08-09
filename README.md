@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1622-fancy-sequence](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/Codealpha07/LeetCode-POTD/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1006-vowel-spellchecker](https://github.com/Codealpha07/LeetCode-POTD/tree/master/1006-vowel-spellchecker) |
+| [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
@@ -705,4 +710,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0460-lfu-cache](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
