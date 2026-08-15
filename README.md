@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
