@@ -735,11 +735,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 ## Nim Game
