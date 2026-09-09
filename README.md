@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
