@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0835-image-overlap](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1006-vowel-spellchecker](https://github.com/Codealpha07/LeetCode-POTD/tree/master/1006-vowel-spellchecker) |
 | [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+| [0835-image-overlap](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
