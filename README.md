@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0166-fraction-to-recurring-decimal/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1006-vowel-spellchecker](https://github.com/Codealpha07/LeetCode-POTD/tree/master/1006-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0135-candy/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
