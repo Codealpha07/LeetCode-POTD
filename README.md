@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1291-sequential-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
