@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Codealpha07/LeetCode-POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 | Problem Name | Difficulty |
