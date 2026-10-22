@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0460-lfu-cache](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
