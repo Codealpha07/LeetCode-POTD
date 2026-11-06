@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+| [0146-lru-cache](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0166-fraction-to-recurring-decimal/) | Medium |
 | [0355-design-twitter](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0355-design-twitter](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0355-design-twitter](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 | [0460-lfu-cache](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
