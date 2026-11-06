@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Hard/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Codealpha07/LeetCode-POTD/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
